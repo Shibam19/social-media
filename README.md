@@ -1,1 +1,1 @@
-A soci
+A social media Application
